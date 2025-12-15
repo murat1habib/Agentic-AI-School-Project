@@ -1,0 +1,61 @@
+# -----------------------------
+# PYTHON
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# env files
+.env
+
+# -----------------------------
+# VENV
+# -----------------------------
+venv/
+env/
+.venv/
+*.venv
+VENV/
+ENV/
+
+# -----------------------------
+# IDE / EDITOR
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# -----------------------------
+# OS
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# LOGS
+*.log
+
+# -----------------------------
+# OLLAMA
+.ollama/
+ollama/
+models/
+
+# -----------------------------
+# MISC
+*.tmp
+*.bak
